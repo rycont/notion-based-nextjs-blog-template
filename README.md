@@ -5,6 +5,7 @@ NextJS SSR Blog, uses Notion as CMS. Realtime Changes, Does't Cache, Directly lo
 Before run, fill your Database ID to `/constant.ts`.DATABASE_ID.
 You can find Database ID in notion request to `loadPageChunk`, use Network Inspector in Devtools.
 Make sure your database and articles are public.
+Pictures that uploaded to notion is not supported. Please use Photo embed.
 
 ### Developing
 ```bash
