@@ -16,6 +16,7 @@ const Home: React.FC<{
         <title>Blog Template</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Link href="/category">Category</Link>
       <ul>
       {
         articles.map(article => <li key={article.pageId}>

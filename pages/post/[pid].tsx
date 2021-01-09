@@ -2,7 +2,7 @@ import { getArticleWithBriefId } from 'notion-to-markdown'
 import Markdown from 'react-markdown'
 import { DATABASE_ID } from '../../constant'
 
-export default function FirstPost({article}) {
+export default function Post({article}) {
     return <div>
         <h1>{article.title}</h1>
         <Markdown>{article.content}</Markdown>
