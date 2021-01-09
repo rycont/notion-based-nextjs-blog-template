@@ -2743,10 +2743,10 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
 
-notion-to-markdown@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/notion-to-markdown/-/notion-to-markdown-1.3.0.tgz#a472e1653932152015bc8f8573034c3204806142"
-  integrity sha512-/QaEpLFzwhV24VPh9+qxMruhRFkxjhAmBtk8BgGfPnNaqP1wf/0/0TBGY7P6jVhjxnyoK7EwH9nsM18cBIRBzw==
+notion-to-markdown@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/notion-to-markdown/-/notion-to-markdown-1.4.1.tgz#4b96a423fa98e2abe203a55ea8ffeb2cb6bfc13d"
+  integrity sha512-Y1HYF1j/LtXqvQwt84/BgLN6Is6GwxZsehoLLgQ2RYC8wquggugoayx9DiOOnN+Z6CryHKwEO+FB3ojQ5pJdzQ==
   dependencies:
     "@types/node-fetch" "^2.5.7"
     node-fetch "^2.6.1"
